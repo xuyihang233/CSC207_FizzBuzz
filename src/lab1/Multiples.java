@@ -6,6 +6,9 @@ public class Multiples {
         System.out.println(mtps);
     }
 
+    // Overloading test
+    // Two methods below do exactly the same thing
+
     public static int multiples() {
         int count = 0;
         for (int i = 1; i < 1000; i++) {
