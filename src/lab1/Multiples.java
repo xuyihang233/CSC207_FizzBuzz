@@ -2,6 +2,9 @@ package lab1;
 
 public class Multiples {
     public static void main(String[] args) {
+
+        // use Option+Command+N to do "inline variable" (to fuze two lines together if possible)
+
         int count = multiples();
         System.out.println(count);
     }
