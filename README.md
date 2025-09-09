@@ -363,7 +363,7 @@ is happy with their own code for this.
 
 Now, let's modify your code so that it is easy to test.
 
-- [ ] Extract a method from `Multiples.main` that will return
+- [X] Extract a method from `Multiples.main` that will return
   the answer, call it `multiples`. The answer should still be printed in your `Multiples.main` method.
   After you do this, your `Multiples.main` method should look something like:
 
