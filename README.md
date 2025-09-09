@@ -345,12 +345,12 @@ on MarkUs to get practice with running the self tests on MarkUs.
 
 ## Task 4: Multiples of 3 and 5
 
-- [ ] Right-click on `lab1` and select `New —> Java Class`. Name it `Multiples`.
+- [X] Right-click on `lab1` and select `New —> Java Class`. Name it `Multiples`.
 
 We're looking for integers greater than 0 that are multiples of 3 or 5. The first four are 3, 5, 6, and 9, so there are
 four below 10. How many are below 1000?
 
-- [ ] In `Multiples.java`, write a main method that **prints** how many multiples of 3 or 5 there are below 1000.
+- [X] In `Multiples.java`, write a main method that **prints** how many multiples of 3 or 5 there are below 1000.
 Add this file to your project, commit, and push. Check your repo on GitHub to confirm your changes were pushed successfully.
 
 > Tip: Just like with `psvm`, you can start typing `sout`
